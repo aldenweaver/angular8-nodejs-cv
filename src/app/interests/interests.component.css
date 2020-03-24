@@ -1,0 +1,17 @@
+.inticons {
+  font-size: 5rem; 
+  color: #FFD700;
+}
+
+.icon-text {
+	text-align: center;
+}
+
+.inticons:hover {
+  color: #0000FF;
+}
+
+.inline-container {
+	display: inline-block;
+	position:relative;
+}
