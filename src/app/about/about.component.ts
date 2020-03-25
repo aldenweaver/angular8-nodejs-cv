@@ -36,7 +36,7 @@ export class AboutComponent implements OnInit {
         },
         email: "aldenweavercodes@gmail.com",
         description: "Full Stack Engineer with a Passion for Front-End Development, Product Management, Product Development, & Design",
-        quote: "'Whether you believe you can do a thing or not, you are right.' — Henry Ford",
+        quote: "'Whether you think you can or you think you can't, you're right.' — Henry Ford",
     };
 
     public socialData:SocialInfo[] = [
