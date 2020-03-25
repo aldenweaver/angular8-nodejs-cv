@@ -1,6 +1,19 @@
-# Angular8NodejsCv
+# Alden Weaver's Curriculum Vitae
+
+## About
+Alden Weaver's CV, created using Angular 8 & NodeJS. Hosted on Heroku: . 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+
+The meat of the project is adapted from this tutorial that I completed: 
+https://www.udemy.com/course/angular-6-for-beginners-by-harsha/learn/lecture/11222494#overview.
+
+The front-end is adapted from the following project: 
+https://github.com/gbenejam/personal-page-template
+
+Additional resources:
+https://www.udemy.com/course/heroku-masterclass-how-to-deploy-your-node-js-app-on-heroku/learn/lecture/11375762#overview
+https://itnext.io/how-to-deploy-angular-application-to-heroku-1d56e09c5147
 
 ## Development server
 
