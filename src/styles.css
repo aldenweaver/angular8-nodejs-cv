@@ -20,18 +20,34 @@ h2 {
   font-size: 3.5rem; 
 }
 
+h3{
+  color: gold !important;
+}
+
+li{
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+body {
+  color: black !important;
+}
+
 .primary-text {
-  color: #FFD700;
+  color: gold;
 }
 
 .secondary-text {
-    color: #FFD700;
+    color: gold;
 }
 
 .subheading {
   text-transform: uppercase;
   font-weight: bold;
-  color: #FFD700;
+  color: gold;
 }
 
 .body {
