@@ -8,8 +8,10 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "ng build"
+    "postinstall": "ng build",
+    "deploy" : "npm run build&&gh-pages -d build"
   },
+  "homepage": "https://aldenweaver.github.io/aldenweaver",
   "private": true,
   "dependencies": {
     "@angular-devkit/build-angular": "^0.900.7",
